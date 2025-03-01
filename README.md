@@ -35,20 +35,6 @@
 
 ---
 
-## **🌍 GitHub Contribution Snake**
-<p align="center">
-  <img src="https://github.com/Sovannthai/Sovannthai/blob/main/assets/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
-</p>
-
----
-
-## **🚀 Profile Analytics**
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Sovannthai&icon=0&color=0" alt="Profile Visit Count">
-</p>
-
----
-
 ## **🎯 Fun Fact**
 💡 **I love exploring the world of Cybersecurity, Laravel, and AI-powered apps!**  
 🎮 **In my free time, I enjoy ethical hacking challenges and gaming!**  
