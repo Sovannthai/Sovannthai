@@ -1,7 +1,3 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=🚀+Welcome+to+My+GitHub!;Let's+Create+Magic+with+Code!+🔥" alt="Typing SVG">
-</h1>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sovannthai&label=🔥+Profile+Views&color=FF4500&style=for-the-badge" alt="Profile Views">
 </p>
